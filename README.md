@@ -1,3 +1,4 @@
+## This repo cloned from https://github.com/sashabaranov/go-openai
 # Go OpenAI
 [![Go Reference](https://pkg.go.dev/badge/github.com/ypankaj007/go-openai.svg)](https://pkg.go.dev/github.com/ypankaj007/go-openai)
 [![Go Report Card](https://goreportcard.com/badge/github.com/ypankaj007/go-openai)](https://goreportcard.com/report/github.com/ypankaj007/go-openai)
